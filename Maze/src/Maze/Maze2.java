@@ -81,6 +81,7 @@ public class Maze2 extends MyFrame {
 						map[pointX][pointY - 1] = 0;
 						pointY -= 2;
 						break;//u
+						
 					}
 				}
 			case 1:
